@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 500;
+    font-family: Helvetica;
+    background-color: orange;
+    color: white;
+}
+
+li {
+    font-weight: 800;
+    background-color: green;
+    color: black;
+}
