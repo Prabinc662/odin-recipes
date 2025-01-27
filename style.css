@@ -1,12 +1,20 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+}
 h1 {
-    font-weight: 500;
+    font-weight: 800;
     font-family: Helvetica;
-    background-color: orange;
-    color: white;
+    border: 2px solid black;
+    background-color: azure;
+    padding: 8px;
+    text-align: center;
 }
 
 li {
     font-weight: 800;
-    background-color: green;
-    color: black;
+    margin: 8px;
+    background-color: azure;
+    padding: 8px;
+    display: block;
 }
